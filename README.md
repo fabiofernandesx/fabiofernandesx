@@ -36,6 +36,7 @@ Agile and startup enthusiast, I love to see how software products connect differ
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using ESLint, Prettier and Typescript in a Nodejs project](https://medium.com/@fabiofernandesx/using-eslint-prettier-and-typescript-in-a-nodejs-project-374ba14a521e?source=rss-a03b135d0589------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://fabiofernandes.net
