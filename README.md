@@ -38,4 +38,8 @@ Agile and startup enthusiast, I love to see how software products connect differ
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
 
+## <br />
+
+[![Fabio's github stats](https://github-readme-stats.vercel.app/api?username=fabiofernandesx&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://fabiofernandes.net
