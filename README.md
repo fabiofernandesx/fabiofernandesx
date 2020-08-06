@@ -30,5 +30,12 @@ Agile and startup enthusiast, I love to see how software products connect differ
 [<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][website]
 
 <br />
+<br />
+---
+
+# Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://fabiofernandes.net
