@@ -33,7 +33,7 @@ Agile and startup enthusiast, I love to see how software products connect differ
 <br />
 ---
 
-# Latest blog posts
+### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
