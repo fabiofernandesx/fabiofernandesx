@@ -35,7 +35,7 @@ Agile and startup enthusiast, I love to see how software products connect differ
 
 ### Latest blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 [website]: https://fabiofernandes.net
