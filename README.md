@@ -8,7 +8,7 @@ I’ve been helping companies to transform their big ideas in profitable busines
 
 I value mixed scrum teams, open communication and delivering real business value
 
-Agile and startup enthusiast, I love to see how software products connect different areas of the business
+Agile and startup enthusiast, I love to see how software products connect different business areas and different people
 
 <br />
 
